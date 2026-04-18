@@ -1,0 +1,7 @@
+body {
+    --link-color: #61AFEF;
+    --link-color-hover: #8ABEE7;
+    --link-external-color: #61AFEF;
+    --link-external-color-hover: #8ABEE7;
+    --link-unresolved-color: rgba(97, 175, 239, 0.6);
+}

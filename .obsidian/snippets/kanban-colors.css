@@ -1,0 +1,48 @@
+.kanban-plugin__item {
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+/* TAG: #bug (Error) */
+.kanban-plugin__item:has(.tag[href="#bug"])::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; bottom: 0;
+    width: 4px; /* Ancho de la barra de color */
+    background-color: #ed4245 !important;
+    z-index: 99 !important; /* Perfora todas las capas del tema */
+}
+.kanban-plugin__item .tag[href="#bug"] { display: none !important; }
+
+/* TAG: #feature (Nueva característica) */
+.kanban-plugin__item:has(.tag[href="#feature"])::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; bottom: 0;
+    width: 4px;
+    background-color: #57f287 !important;
+    z-index: 99 !important;
+}
+.kanban-plugin__item .tag[href="#feature"] { display: none !important; }
+
+/* TAG: #refactor (Mejora de código) */
+.kanban-plugin__item:has(.tag[href="#refactor"])::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; bottom: 0;
+    width: 4px;
+    background-color: #5865F2 !important;
+    z-index: 99 !important;
+}
+.kanban-plugin__item .tag[href="#refactor"] { display: none !important; }
+
+/* TAG: #test (Pruebas de calidad) */
+.kanban-plugin__item:has(.tag[href="#test"])::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; bottom: 0;
+    width: 4px;
+    background-color: #fee75c !important;
+    z-index: 99 !important;
+}
+.kanban-plugin__item .tag[href="#test"] { display: none !important; }

@@ -1,0 +1,20 @@
+# Caché y estado workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+.obsidian/cache/
+
+#Navegacion e Historial
+.obsidian/history.json
+.obsidian/bookmarks.json
+.obsidian/starred.json
+
+# Papelera de Obsidian
+.trash/
+
+# Basura del sistema operativo
+.DS_Store
+*~
+Thumbs.db
+.Spotlight-V100
+.Trashes

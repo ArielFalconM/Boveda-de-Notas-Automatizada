@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Typewriter",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "kanban-colors",
+    "titulos-centrados",
+    "enlaces"
+  ]
+}

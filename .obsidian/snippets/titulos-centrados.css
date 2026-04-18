@@ -1,0 +1,5 @@
+.markdown-source-view .inline-title,
+.markdown-reading-view .inline-title {
+    text-align: center !important;
+    width: 100% !important;
+}
