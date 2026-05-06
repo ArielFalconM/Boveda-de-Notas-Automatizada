@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "2a9ec1c9be0816c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "476186d8fe8555f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b5ca4be008f2a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/00-Tutorial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-Tutorial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65d79f95bf030fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "822b6c92c7e85a83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7424cc1efbec3ee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72cad6d34cbe2b6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "613f98c2fd2a38d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8df5d7685d6e6727",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f852e746b6db4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4117f103bfdc5ae3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99-Templates/3.Template - Bitácora.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3.Template - Bitácora"
+            }
+          },
+          {
+            "id": "434683392ce91490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Inbox/Bitácora - 15-04-2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bitácora - 15-04-2026"
+            }
+          },
+          {
+            "id": "71d918ea9b4fe213",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e47f19435080781c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d76fa64460a1eccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Inbox/Bitácora - 15-04-2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bitácora - 15-04-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9b5ca4be008f2a69",
+  "lastOpenFiles": [
+    "99-Templates/1.Template - Concepto.md",
+    "00-Inbox/00-Tutorial.md",
+    "99-Templates/2.Template - Software.md",
+    "99-Templates/3.Template - Bitácora.md",
+    "99-Templates/4.Template - Proyecto.md",
+    "99-Templates/6. Template - Practico.md",
+    "99-Templates/5.Template - Tema.md",
+    "98-Data",
+    "99-Templates/Template-Kanban-Software.md",
+    "99-Templates/Template-Excalidraw.md",
+    "40-Diagramas/Teoría - asdasdasd.md",
+    "00-Inbox/asdasdasd.md",
+    "00-Inbox/asdas.md",
+    "00-Inbox/Bitácora - Pokeperu - 17-04-2026.md",
+    "00-Inbox/Bitácora - Bitácora - Pokeperu - 17-04-2026 - 17-04-2026.md",
+    "20-Proyectos/Proyecto - Pokeperu.md",
+    "10-Zettelkasten/Kanban - Pokeperu.md",
+    "40-Diagramas/Mapa - Pokeperu.md",
+    "00-Inbox/Godot.md",
+    "00-Inbox/Godot.md",
+    "20-Proyectos/Proyecto - asdajs.md",
+    "10-Zettelkasten/Kanban - asdajs.md",
+    "40-Diagramas/Mapa - asdajs.md",
+    "20-Proyectos/Proyecto - Pokemon.md",
+    "10-Zettelkasten/Kanban - Pokemon.md",
+    "40-Diagramas/Mapa - Pokemon.md",
+    "20-Proyectos/Proyecto - Proyecto_Sin_Nombre.md",
+    "40-Diagramas",
+    "99-Templates",
+    "20-Proyectos",
+    "10-Zettelkasten",
+    "00-Inbox"
+  ]
+}
